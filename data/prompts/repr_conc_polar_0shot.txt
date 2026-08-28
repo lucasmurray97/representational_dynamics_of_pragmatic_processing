@@ -1,0 +1,22 @@
+Contexto y tarea:
+
+X e Y están teniendo una conversación. X le hará una pregunta a Y, e Y le responderá a X.
+Tu tarea es definir cuál de las dos oraciones expresa mejor el mensaje que Y quiso darle a X con su respuesta.
+Las alternativas son la Oración 1 y la Oración 2.
+Debes elegir la oración que capture de manera más completa y precisa lo que Y quiso comunicar.
+
+Responde únicamente con el número 1 o el número 2, sin explicaciones adicionales.
+
+Pregunta de X:
+{QUD_polar}
+
+Respuesta de Y:
+{U}
+
+Oración 1:
+{I}
+
+Oración 2:
+{PU}
+
+Salida:

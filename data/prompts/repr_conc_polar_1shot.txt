@@ -1,0 +1,31 @@
+Contexto y tarea:
+
+X e Y están teniendo una conversación. X le hará una pregunta a Y, e Y le responderá a X.
+Tu tarea es definir cuál de las dos oraciones expresa mejor el mensaje que Y quiso darle a X con su respuesta.
+Las alternativas son la Oración 1 y la Oración 2.
+Debes elegir la oración que capture de manera más completa y precisa lo que Y quiso comunicar.
+
+Responde únicamente con el número 1 o el número 2, sin explicaciones adicionales.
+Antes de empezar, observa los siguientes ejemplos. Cada ejemplo muestra una pregunta, una respuesta, y el mensaje que Y quiso comunicarle a X con esa respuesta.
+
+Ejemplo 1
+Pregunta de X: ¿Cocinó Juan el pastel de cumpleaños de su hija?
+
+Responde únicame
+Respuesta de Y: Juan pasó toda la tarde en la cocina con harina hasta en la ropa.
+Mensaje: Y quiso decirle a X que Juan cocinó el pastel de cumpleaños de su hija.
+
+
+Pregunta de X:
+{QUD_polar}
+
+Respuesta de Y:
+{U}
+
+Oración 1:
+{I}
+
+Oración 2:
+{PU}
+
+Salida:
