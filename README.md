@@ -1,4 +1,14 @@
-# Few-shot pragmatic uptake and representational change in LLMs
+# Representational Dynamics of Pragmatic Processing
+
+- Lucas Murray Hidalgo, Universidad de Chile
+- Pablo Oyarzo, Aarhus University
+- Andrés Contreras, Faculty of Medicine, Universidad de Chile
+- Diego Vidaurre, Centre de Recerca Matemàtica
+- Cristian Buc, Centro Nacional de Inteligencia Artificial (CENIA)
+- Edmundo Kronmüller, School of Psychology, Pontificia Universidad Católica de Chile
+- Álvaro Soto, Pontificia Universidad Católica de Chile; Centro Nacional de Inteligencia Artificial (CENIA)
+
+Code for the NeurIPS 2026 paper *Representational Dynamics of Pragmatic Processing*.
 
 Code and stimuli for the paper studying whether few-shot prompting changes how instruction-tuned
 language models represent an indirect exchange, and whether that change tracks their behavioural
@@ -7,8 +17,6 @@ the per-token trajectory within each content span, and **within-bracket linear C
 The task is a Spanish conversational-implicature judgement over four content elements — the question
 under discussion (**QUD**), the indirect response (**U**), the implicature reading (**I**), and the
 literal reading (**PU**).
-
-This repository is anonymized for double-blind review.
 
 ## What's here
 
@@ -76,6 +84,22 @@ models flagged in `models.csv`); `registry.panel_models()` returns it.
 Override any path with an environment variable (see `config.py`): `REPR_OUTPUTS` (activation root),
 `ARTIFACTS` (derived data), `DATA_ROOT`. Model checkpoints resolve through `models.csv`; an alias not
 listed there is treated as a raw Hugging Face repo id.
+
+## Citation
+
+```bibtex
+@inproceedings{murrayhidalgo2026representational,
+  title     = {Representational Dynamics of Pragmatic Processing},
+  author    = {Murray Hidalgo, Lucas and Oyarzo, Pablo and Contreras, Andr{\'e}s and Vidaurre, Diego and
+               Buc, Cristian and Kronm{\"u}ller, Edmundo and Soto, {\'A}lvaro},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year      = {2026}
+}
+```
+
+## Contact
+
+Lucas Murray Hidalgo (lucas.murray@ug.uchile.cl).
 
 ## License
 

@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Representational Dynamics of Pragmatic Processing"
+type: software
+license: MIT
+authors:
+  - given-names: Lucas
+    family-names: Murray Hidalgo
+    affiliation: Universidad de Chile
+    email: lucas.murray@ug.uchile.cl
+  - given-names: Pablo
+    family-names: Oyarzo
+    affiliation: Aarhus University
+  - given-names: Andrés
+    family-names: Contreras
+    affiliation: "Faculty of Medicine, Universidad de Chile"
+  - given-names: Diego
+    family-names: Vidaurre
+    affiliation: Centre de Recerca Matemàtica
+  - given-names: Cristian
+    family-names: Buc
+    affiliation: Centro Nacional de Inteligencia Artificial (CENIA)
+  - given-names: Edmundo
+    family-names: Kronmüller
+    affiliation: "School of Psychology, Pontificia Universidad Católica de Chile"
+  - given-names: Álvaro
+    family-names: Soto
+    affiliation: "Pontificia Universidad Católica de Chile; Centro Nacional de Inteligencia Artificial (CENIA)"
+preferred-citation:
+  type: conference-paper
+  title: "Representational Dynamics of Pragmatic Processing"
+  collection-title: "Advances in Neural Information Processing Systems"
+  year: 2026
+  authors:
+    - given-names: Lucas
+      family-names: Murray Hidalgo
+    - given-names: Pablo
+      family-names: Oyarzo
+    - given-names: Andrés
+      family-names: Contreras
+    - given-names: Diego
+      family-names: Vidaurre
+    - given-names: Cristian
+      family-names: Buc
+    - given-names: Edmundo
+      family-names: Kronmüller
+    - given-names: Álvaro
+      family-names: Soto
