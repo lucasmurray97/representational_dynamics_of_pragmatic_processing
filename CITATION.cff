@@ -29,7 +29,7 @@ authors:
 preferred-citation:
   type: conference-paper
   title: "Representational Dynamics of Pragmatic Processing"
-  collection-title: "Advances in Neural Information Processing Systems"
+  collection-title: "NeurIPS 2026 Workshop on Linguistic Principles for Foundation Models"
   year: 2026
   authors:
     - given-names: Lucas

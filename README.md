@@ -8,7 +8,8 @@
 - Edmundo Kronmüller, School of Psychology, Pontificia Universidad Católica de Chile
 - Álvaro Soto, Pontificia Universidad Católica de Chile; Centro Nacional de Inteligencia Artificial (CENIA)
 
-Code for the NeurIPS 2026 paper *Representational Dynamics of Pragmatic Processing*.
+Code for *Representational Dynamics of Pragmatic Processing*, NeurIPS 2026 Workshop on Linguistic Principles for
+Foundation Models.
 
 Code and stimuli for the paper studying whether few-shot prompting changes how instruction-tuned
 language models represent an indirect exchange, and whether that change tracks their behavioural
@@ -92,7 +93,7 @@ listed there is treated as a raw Hugging Face repo id.
   title     = {Representational Dynamics of Pragmatic Processing},
   author    = {Murray Hidalgo, Lucas and Oyarzo, Pablo and Contreras, Andr{\'e}s and Vidaurre, Diego and
                Buc, Cristian and Kronm{\"u}ller, Edmundo and Soto, {\'A}lvaro},
-  booktitle = {Advances in Neural Information Processing Systems},
+  booktitle = {NeurIPS 2026 Workshop on Linguistic Principles for Foundation Models},
   year      = {2026}
 }
 ```
