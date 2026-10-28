@@ -100,7 +100,7 @@ listed there is treated as a raw Hugging Face repo id.
 
 ## Contact
 
-Lucas Murray Hidalgo (lucas.murray@ug.uchile.cl).
+Lucas Murray Hidalgo (lucas.murray [at] ug.uchile.cl).
 
 ## License
 
